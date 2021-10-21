@@ -21,7 +21,7 @@ Other than key __CRUD__ operations there are other __features__ like adding
 driver to a car and showing a list of cars for currently logged in driver.
 It is a training project that was created to show my skills in __JavaCore__, __JDBC__, and __Web__.
 
-_I do not use "Hibernate" and "Spring Framework" 
+_I don't use "Hibernate" and "Spring Framework" 
 to better understand how a web application works in more depth_.
 ***
 
