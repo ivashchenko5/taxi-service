@@ -1,15 +1,15 @@
-#TAXI-SERVICE
-###[View a demo](https://taxi-service-v.herokuapp.com/)
+# TAXI-SERVICE<br>
+### [View a demo](https://taxi-service-v.herokuapp.com/)
 
 ---
 
-##Table of contents
+## Table of contents
 * [About a project](#about-a-project)
 * [Technologies](#technologies)
 * [Setup](#setup)
 ***
 
-##About a project
+## About a project
 <a id="about-a-project"></a>
 
 Taxi-service it's a __web application__.<br>
@@ -25,7 +25,7 @@ _I do not use "Hibernate" and "Spring Framework"
 to better understand how a web application works in more depth_.
 ***
 
-##Technologies
+## Technologies
 <a id="technologies"></a>
 
 * [Java 11](https://en.wikipedia.org/wiki/Java_(programming_language))
@@ -38,7 +38,7 @@ to better understand how a web application works in more depth_.
 * [Apache Tomcat 9.0.50](https://en.wikipedia.org/wiki/Apache_Tomcat)
 ***
 
-##Setup.
+## Setup.
 <a id="setup"></a>
 
 __To run this application please install:__
