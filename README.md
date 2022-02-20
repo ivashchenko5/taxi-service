@@ -38,7 +38,7 @@ to better understand how a web application works in more depth_.
 * [Apache Tomcat 9.0.50](https://en.wikipedia.org/wiki/Apache_Tomcat)
 ***
 
-## Setup.
+## Setup
 <a id="setup"></a>
 
 __To run this application please install:__
